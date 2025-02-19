@@ -14,7 +14,7 @@
         <div class="row justify-content-center">
             <div class="col-md-4">
                 <div class="card p-4 shadow-lg">
-                    <h3 class="text-center mb-3">Iniciar Sesión</h3>
+                    <h3 class="text-center mb-3">Inicia Sesión</h3>
                     
                     <form action="procesar_login.php" method="POST">
                         <div class="mb-3">
@@ -25,7 +25,7 @@
                             <label class="form-label">Contraseña</label>
                             <input type="password" name="password" class="form-control" required>
                         </div>
-                        <button type="submit" class="btn btn-primary w-100">Ingresar</button>
+                        <button type="submit" class="btn btn-primary w-100">Ingresa</button>
                     </form>
 
                     <p class="mt-3 text-center">

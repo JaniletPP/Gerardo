@@ -7,7 +7,7 @@ ini_set('display_errors', 1);
 // Conexión a la base de datos
 $servername = "localhost";
 $username = "root";
-$password = "";
+$password = "jan2004";
 $dbname = "gerardo_db";
 
 $conn = new mysqli($servername, $username, $password, $dbname);

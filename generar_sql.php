@@ -2,7 +2,7 @@
 // Configuración de conexión a la base de datos
 $servername = "localhost";
 $username = "root"; // 
-$password = ""; 
+$password = "jan2004"; 
 $dbname = "gerardo_db"; 
 
 // Crear conexión
